@@ -171,7 +171,7 @@ class NavBar extends StatelessWidget {
           backgroundColor: Colors.white,
           child: ClipOval(
             child: Image.asset(
-              "images/images.jpg",
+              "images/Login.jpg",
               fit: BoxFit.cover,
               width: 60,
               height: 60,
